@@ -11,9 +11,23 @@
 /*  height: 300px; Should be removed. Only for demonstration */
 }
 
+.middle {
+  float: left;
+  width: 60%;
+  padding: 10px;
+/*  height: 300px; Should be removed. Only for demonstration */
+}
+
+.right {
+  float: left;
+  width: 25%;
+  padding: 10px;
+/*  height: 300px; Should be removed. Only for demonstration */
+}
+
 .menu {
   float: left;
-  width: 15%;
+  width: 10%;
   padding: 10px;
 /*  height: 300px; Should be removed. Only for demonstration */
 }
