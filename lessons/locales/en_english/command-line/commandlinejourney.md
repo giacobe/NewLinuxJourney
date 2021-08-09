@@ -11,8 +11,8 @@ This Journey helps you to understand how to navigate the file system using comma
 
 ## Try/Practice/Test
 
-Try: As you work your way through the Journey, you will see a Linux system on the side panel of the page where you can try the commands.
+**Try:** As you work your way through the Journey, you will see a Linux system on the side panel of the page where you can try the commands.
 
-Practice: When you have completed learning the commands in each section, you will find a "... practice" page that will give you some tasks to complete on a Linux system. The "...practice" page is designed to help you learn the commands, apply them in context, and build your Linux muscle memory. 
+**Practice:** When you have completed learning the commands in each section, you will find a "... practice" page that will give you some tasks to complete on a Linux system. The "...practice" page is designed to help you learn the commands, apply them in context, and build your Linux muscle memory. 
 
-Test: When you are confident with the commands and the "... practice" page exercises, you can complete the Journey Test to receive a digital badge that you can use to communicate your competence with these skills.
+**Test:** When you are confident with the commands and the "... practice" page exercises, you can complete the Journey Test to receive a digital badge that you can use to communicate your competence with these skills.
